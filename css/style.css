@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    background-color: rgba(253, 212, 212, 0.658);
+    border: 2px solid silver;
+    min-height: 200px;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size: 42px;   
+}
